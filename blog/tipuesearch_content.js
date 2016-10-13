@@ -1,0 +1,1 @@
+var tipuesearch = {"pages":[{"title":"About","tags":"misc","text":"2016Fall 修課成員網誌","url":"./pages/about/"},{"title":"2016FALLCADP_AG4 10/13","tags":"Misc","text":"哈囉","url":"./2016fallcadp_ag4-1013.html"}]};
