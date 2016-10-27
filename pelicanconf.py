@@ -23,10 +23,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('pelican-bootstrap3', 'https://github.com/DandyDev/pelican-bootstrap3/'),
-         ('pelican-plugins', 'https://github.com/getpelican/pelican-plugins'),
-         ('Tipue search', 'https://github.com/Tipue/Tipue-Search'),('40423106','https://40423106.github.io/2016fallcadp_hw'),('40423107','https://40423107.github.io/2016fallcadp_hw'),('40423108','https://40423108.github.io/2016fallcadp_hw'),('40423121','https://40423121.github.io/2016fallcadp_hw'),
+LINKS = (('40423106','https://40423106.github.io/2016fallcadp_hw'),('40423107','https://40423107.github.io/2016fallcadp_hw'),('40423108','https://40423108.github.io/2016fallcadp_hw'),('40423121','https://40423121.github.io/2016fallcadp_hw'),
 ('40423125','https://40423125.github.io/2016fallcadp_hw'),
 ('40423140','https://40423140.github.io/2016fallcadp_hw'))
 
