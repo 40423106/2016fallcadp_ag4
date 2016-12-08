@@ -79,10 +79,10 @@
 <v t="leo.20151212173725.1"><vh>@edit pelicanconf.py</vh></v>
 <v t="amd.20151215170221.1"><vh>以下 local_publishconf.py 為近端所使用的設定</vh></v>
 <v t="leo.20151213085752.1"><vh>@edit local_publishconf.py</vh></v>
+<v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 </v>
 </v>
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
-<v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201610</vh>
@@ -93,6 +93,7 @@
 <v t="leo.20161027152753.1"><vh>@edit 40423121.md</vh></v>
 <v t="leo.20161027152756.1"><vh>@edit 40423125.md</vh></v>
 <v t="leo.20161027152757.1"><vh>@edit 40423140.md</vh></v>
+<v t="leo.20161208144246.1"><vh>@edit 2016.12.08.md</vh></v>
 </v>
 </v>
 </v>
@@ -102,7 +103,7 @@
 </v>
 </v>
 <v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
-<v t="leo.20161027152710.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20161027152710.2"><vh>Recovered Nodes</vh>
 <v t="leo.20161027152710.3"><vh>Recovered node "head" from @clean index.html</vh>
 <v t="leo.20161027152710.4"><vh>old:head</vh></v>
 <v t="leo.20161027152710.5"><vh>new:head</vh></v>
@@ -214,6 +215,12 @@
 <v t="leo.20161027152710.84"><vh>Recovered node "引用程式碼" from @clean index.html</vh>
 <v t="leo.20161027152710.85"><vh>old:引用程式碼</vh></v>
 <v t="leo.20161027152710.86"><vh>new:引用程式碼</vh></v>
+</v>
+</v>
+<v t="leo.20161208144226.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20161208144226.3"><vh>Recovered node "所謂自學" from @clean index.html</vh>
+<v t="leo.20161208144226.4"><vh>old:所謂自學</vh></v>
+<v t="leo.20161208144226.5"><vh>new:所謂自學</vh></v>
 </v>
 </v>
 </vnodes>
@@ -745,7 +752,7 @@ DEFAULT_DATE = 'fs'</t>
 # 9/29成果影片
 
 &lt;iframe src="https://player.vimeo.com/video/185637674" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185637674"&gt;錄製_2016_10_05_20_31_24_791&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-					&lt;p&gt;心得 : 這次老師教我們用新的繪圖軟體,雖然都是英文,但我還是完成了&lt;/p&gt;
+					&lt;p&gt;心得 : 這次老師教我們用新的繪圖軟體,檔案小,功能齊全&lt;/p&gt;
 </t>
 <t tx="leo.20161013151511.13">&lt;p&gt;&lt;/p&gt;
     &lt;/script&gt;
@@ -2453,6 +2460,39 @@ Diff...
 - 	
 + 
 + 						
+</t>
+<t tx="leo.20161208144226.2"></t>
+<t tx="leo.20161208144226.3">(uncached) leo.20161013151511.12
+Diff...
+  &lt;p&gt;git push origin gh-pages&lt;/p&gt;
+  
+  @others
+      &lt;script type="text/template"&gt;
+  # 9/29成果影片
+  
+  &lt;iframe src="https://player.vimeo.com/video/185637674" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185637674"&gt;錄製_2016_10_05_20_31_24_791&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+- 					&lt;p&gt;心得 : 這次老師教我們用新的繪圖軟體,檔案小,功能齊全&lt;/p&gt;
+? 					                       ^^^ ^^^^
++ 					&lt;p&gt;心得 : 這次老師教我們用新的繪圖軟體,雖然都是英文,但我還是完成了&lt;/p&gt;
+? 					                       ^^^^^^ ^^^^^^^
+</t>
+<t tx="leo.20161208144226.4">&lt;p&gt;git push origin gh-pages&lt;/p&gt;
+
+@others
+    &lt;script type="text/template"&gt;
+# 9/29成果影片
+
+&lt;iframe src="https://player.vimeo.com/video/185637674" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185637674"&gt;錄製_2016_10_05_20_31_24_791&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+					&lt;p&gt;心得 : 這次老師教我們用新的繪圖軟體,雖然都是英文,但我還是完成了&lt;/p&gt;
+</t>
+<t tx="leo.20161208144226.5">&lt;p&gt;git push origin gh-pages&lt;/p&gt;
+
+@others
+    &lt;script type="text/template"&gt;
+# 9/29成果影片
+
+&lt;iframe src="https://player.vimeo.com/video/185637674" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185637674"&gt;錄製_2016_10_05_20_31_24_791&lt;/a&gt; from &lt;a href="https://vimeo.com/user45854799"&gt;40423106&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+					&lt;p&gt;心得 : 這次老師教我們用新的繪圖軟體,檔案小,功能齊全&lt;/p&gt;
 </t>
 </tnodes>
 </leo_file>
